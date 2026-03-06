@@ -39,15 +39,4 @@ You can try the application here:
 Search for any city to view its current weather conditions.
 
 ---
-📂 Project Structure
-
-src
- ┣ components
- ┃ ┣ SearchBox.jsx
- ┃ ┣ WeatherInfo.jsx
- ┣ App.js
- ┣ index.js
-
-
-```bash
 git clone https://github.com/your-username/weather-now.git
